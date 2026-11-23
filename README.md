@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm L583ggd 👋
+# Hi, I'm lianyuanzhe👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=650&lines=Computing+Student+at+UTM;Exploring+Software+Development;Building+my+technical+foundations)](https://git.io/typing-svg)
 
@@ -41,8 +41,8 @@ I don't have any projects to showcase here yet. This section will grow as I comp
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L583ggd&show_icons=true&hide_border=true&title_color=0F766E&icon_color=14B8A6&text_color=334155&bg_color=FFFFFF)](https://github.com/LS83ggd)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L583ggd&layout=compact&hide_border=true&title_color=0F766E&text_color=334155&bg_color=FFFFFF)](https://github.com/LS83ggd)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lianyuanzhe&show_icons=true&hide_border=true&title_color=0F766E&icon_color=14B8A6&text_color=334155&bg_color=FFFFFF)](https://github.com/LS83ggd)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lianyuanzhe&layout=compact&hide_border=true&title_color=0F766E&text_color=334155&bg_color=FFFFFF)](https://github.com/LS83ggd)
 
 </div>
 
